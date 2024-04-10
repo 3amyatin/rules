@@ -1,0 +1,18 @@
+.obsidian/appearance.json
+
+# sensitive data
+.obsidian/plugins
+.obsidian/snippets
+.obsidian/workspace
+
+# workspace cache
+.obsidian/workspace.json
+
+# workspace cache specific to mobile
+.obsidian/workspace-mobile.json
+
+# OS settings and caches
+.trash/
+.DS_Store
+Untitled*
+null*
